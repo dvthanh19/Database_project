@@ -1,0 +1,35 @@
+[
+  {
+    "categoryID": "1",
+    "supplierID": "101",
+    "categoryName": "Silk",
+    "supplierName": "Silk Sensation",
+    "supplierPhoneNumbers": ["123-456-7890", "987-654-3210"],
+    "importInfos": [
+      {"date": "2023-01-01", "time": "08:00", "quantity": 100, "price": 1200.00},
+      {"date": "2023-02-15", "time": "14:30", "quantity": 50, "price": 600.50}
+    ]
+  },
+  {
+    "categoryID": "2",
+    "supplierID": "102",
+    "categoryName": "Khaki",
+    "supplierName": "Khaki Creations",
+    "supplierPhoneNumbers": ["555-123-4567", "789-987-6543"],
+    "importInfos": [
+      {"date": "2023-03-10", "time": "10:45", "quantity": 200, "price": 1500.75},
+      {"date": "2023-04-22", "time": "15:15", "quantity": 80, "price": 800.20},
+      {"date": "2023-05-05", "time": "12:00", "quantity": 120, "price": 1200.00}
+    ]
+  },
+  {
+    "categoryID": "3",
+    "supplierID": "103",
+    "categoryName": "Crewel",
+    "supplierName": "Crewel Creations",
+    "supplierPhoneNumbers": ["111-222-3333", "444-555-6666"],
+    "importInfos": [
+      {"date": "2023-06-20", "time": "09:30", "quantity": 75, "price": 900.50}
+    ]
+  }
+]
